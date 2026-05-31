@@ -163,14 +163,14 @@ infra/
 
 ---
 
-## Team
+## Team & Assignments
 
-| Role | Person | Responsibility |
-|------|--------|---------------|
-| Tech Lead | Ricardo Gulias | Architecture, specs, reviews, deploy |
-| Contributor | TBD | Implementation, tests, PRs |
-| Contributor | TBD | Implementation, tests, PRs |
-| Contributor | TBD | Implementation, tests, PRs |
+| Role | Person | Spec | Responsibility |
+|------|--------|------|---------------|
+| Tech Lead | Ricardo Gulias | 01 - Webhook Setup | Architecture, specs, reviews, deploy, infra |
+| Contributor | Daniel | 02 - User Registration | Implementation, tests, PRs |
+| Contributor | Ricardo | 03 - Expense Tracking | Implementation, tests, PRs |
+| Contributor | Luiz Andrade | 04 - Monthly Budget | Implementation, tests, PRs |
 
 ---
 
